@@ -62,8 +62,3 @@ The repository contains the following files:
 
 Factor Analysis is an effective technique for dimensionality reduction and helps in simplifying complex data by uncovering hidden patterns. This project showcases how to apply Factor Analysis using Python and interpret the results effectively.
 
-## Contact
-
-For any questions or feedback, please reach out via:
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
